@@ -3,7 +3,7 @@
 <p><em>M.Sc in Digital Forensic & Cyber Security  at <a href="http://www.amity.edu">Amity University Noida</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Junior CyberCrime Investigator at <a href="https://www.edci.co.in/">EDCI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Arya Koner](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hackarya007/)](https://www.linkedin.com/in/hackarya007/)
+[![Linkedin: Arya Koner](https://img.shields.io/badge/-ARYA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hackarya007/)](https://www.linkedin.com/in/hackarya007/)
 [![GitHub Arya Koner](https://img.shields.io/github/followers/hackarya?label=follow&style=social)](https://github.com/hackarya)
 
 
