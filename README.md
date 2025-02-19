@@ -1,6 +1,6 @@
-<h2> Hi, I'm Arya Koner! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Arya Koner! <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611cj1so3jtjpfa31d4367f5u50z2bfl35hs34dwdm2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Junior CyberCrime Investigator  at <a href="http://www.edci.co.in">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>M.Sc in Digital Forensic & Cyber Security  at <a href="http://www.amity.edu">Amity University Noida</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
@@ -29,4 +29,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@hackarya](https://github.com/hackarya)
